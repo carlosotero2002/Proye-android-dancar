@@ -9,6 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.mybank.R;
+import com.google.android.material.tabs.TabLayout;
 
 public class TransferFragment extends Fragment {
 
@@ -18,4 +19,9 @@ public class TransferFragment extends Fragment {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_transfer, container, false);
     }
+
+
+
+
+
 }
